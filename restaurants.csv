@@ -1,0 +1,101 @@
+restaurant_id,restaurant_name,cuisine_type,city,rating
+1,Tandoori Junction 1,South Indian,Chennai,4.7
+2,Royal Kitchen 2,North Indian,Hyderabad,4.5
+3,Royal Kitchen 3,North Indian,Jaipur,4.1
+4,Spice Route 4,Italian,Bangalore,4.2
+5,Royal Kitchen 5,Fast Food,Delhi,4.3
+6,Pizza Corner 6,North Indian,Kolkata,3.9
+7,Spice Route 7,South Indian,Lucknow,3.6
+8,Dosa Delight 8,Chinese,Mumbai,4.3
+9,Spice Route 9,North Indian,Ahmedabad,3.5
+10,Dosa Delight 10,South Indian,Bangalore,4.6
+11,Dosa Delight 11,Chinese,Kolkata,4.1
+12,Dosa Delight 12,Italian,Mumbai,4.5
+13,Food Fiesta 13,South Indian,Chennai,3.7
+14,Food Fiesta 14,Italian,Jaipur,3.7
+15,Punjabi Dhaba 15,North Indian,Delhi,4.9
+16,Royal Kitchen 16,Fast Food,Kolkata,4.2
+17,Punjabi Dhaba 17,South Indian,Ahmedabad,4.0
+18,Pizza Corner 18,South Indian,Mumbai,3.5
+19,Dosa Delight 19,Fast Food,Delhi,3.8
+20,Biryani House 20,North Indian,Lucknow,3.5
+21,Urban Tadka 21,North Indian,Hyderabad,4.5
+22,Dosa Delight 22,Italian,Hyderabad,4.3
+23,Spice Route 23,South Indian,Jaipur,4.9
+24,Punjabi Dhaba 24,Fast Food,Chennai,4.3
+25,Burger Hub 25,South Indian,Pune,4.7
+26,Food Fiesta 26,South Indian,Kolkata,3.9
+27,Spice Route 27,Fast Food,Lucknow,4.7
+28,Tandoori Junction 28,Italian,Jaipur,4.2
+29,Burger Hub 29,Italian,Jaipur,3.9
+30,Dosa Delight 30,Italian,Bangalore,3.9
+31,Tandoori Junction 31,Fast Food,Ahmedabad,3.8
+32,Punjabi Dhaba 32,Chinese,Bangalore,4.6
+33,Spice Route 33,Fast Food,Kolkata,4.9
+34,Food Fiesta 34,Fast Food,Bangalore,4.0
+35,Pizza Corner 35,South Indian,Chennai,4.4
+36,Royal Kitchen 36,Chinese,Mumbai,4.2
+37,Punjabi Dhaba 37,North Indian,Pune,4.0
+38,Urban Tadka 38,Fast Food,Delhi,4.7
+39,Punjabi Dhaba 39,Fast Food,Jaipur,3.8
+40,Punjabi Dhaba 40,Chinese,Pune,4.8
+41,Spice Route 41,South Indian,Hyderabad,4.8
+42,Biryani House 42,Italian,Hyderabad,4.5
+43,Punjabi Dhaba 43,Italian,Hyderabad,4.3
+44,Pizza Corner 44,Italian,Ahmedabad,4.2
+45,Burger Hub 45,Chinese,Pune,4.0
+46,Royal Kitchen 46,Italian,Mumbai,4.6
+47,Royal Kitchen 47,Chinese,Hyderabad,4.0
+48,Dosa Delight 48,North Indian,Lucknow,4.7
+49,Tandoori Junction 49,North Indian,Pune,4.3
+50,Urban Tadka 50,Fast Food,Kolkata,3.9
+51,Punjabi Dhaba 51,Chinese,Hyderabad,4.0
+52,Punjabi Dhaba 52,Italian,Jaipur,4.4
+53,Burger Hub 53,Chinese,Ahmedabad,4.9
+54,Royal Kitchen 54,Italian,Bangalore,4.5
+55,Burger Hub 55,South Indian,Bangalore,4.5
+56,Royal Kitchen 56,South Indian,Jaipur,4.9
+57,Spice Route 57,Fast Food,Delhi,4.7
+58,Biryani House 58,North Indian,Delhi,4.1
+59,Punjabi Dhaba 59,North Indian,Bangalore,3.5
+60,Food Fiesta 60,Italian,Chennai,3.6
+61,Urban Tadka 61,Italian,Ahmedabad,3.5
+62,Food Fiesta 62,Fast Food,Kolkata,3.5
+63,Food Fiesta 63,Chinese,Jaipur,4.9
+64,Spice Route 64,Fast Food,Kolkata,4.6
+65,Tandoori Junction 65,North Indian,Mumbai,4.2
+66,Punjabi Dhaba 66,South Indian,Lucknow,4.2
+67,Burger Hub 67,Chinese,Kolkata,3.6
+68,Dosa Delight 68,Italian,Lucknow,3.8
+69,Punjabi Dhaba 69,Chinese,Mumbai,4.4
+70,Spice Route 70,North Indian,Kolkata,4.0
+71,Food Fiesta 71,Italian,Delhi,4.4
+72,Tandoori Junction 72,North Indian,Ahmedabad,4.7
+73,Burger Hub 73,Fast Food,Mumbai,4.8
+74,Spice Route 74,South Indian,Hyderabad,4.8
+75,Urban Tadka 75,Italian,Pune,3.6
+76,Biryani House 76,Chinese,Jaipur,4.3
+77,Spice Route 77,South Indian,Chennai,3.5
+78,Punjabi Dhaba 78,Fast Food,Bangalore,4.6
+79,Dosa Delight 79,North Indian,Pune,3.7
+80,Punjabi Dhaba 80,Fast Food,Kolkata,4.4
+81,Food Fiesta 81,Chinese,Kolkata,4.6
+82,Tandoori Junction 82,North Indian,Jaipur,4.5
+83,Burger Hub 83,North Indian,Mumbai,4.1
+84,Biryani House 84,Chinese,Lucknow,4.6
+85,Urban Tadka 85,Italian,Chennai,3.5
+86,Pizza Corner 86,Italian,Ahmedabad,3.8
+87,Food Fiesta 87,Italian,Kolkata,3.8
+88,Urban Tadka 88,Italian,Mumbai,4.6
+89,Pizza Corner 89,South Indian,Mumbai,3.6
+90,Tandoori Junction 90,Italian,Bangalore,4.5
+91,Burger Hub 91,Chinese,Mumbai,3.6
+92,Pizza Corner 92,Italian,Chennai,4.6
+93,Biryani House 93,South Indian,Mumbai,3.8
+94,Royal Kitchen 94,Fast Food,Jaipur,4.2
+95,Biryani House 95,North Indian,Mumbai,4.0
+96,Biryani House 96,Fast Food,Lucknow,4.6
+97,Dosa Delight 97,North Indian,Pune,4.1
+98,Biryani House 98,Fast Food,Hyderabad,4.3
+99,Tandoori Junction 99,Italian,Bangalore,3.7
+100,Pizza Corner 100,Chinese,Ahmedabad,3.7

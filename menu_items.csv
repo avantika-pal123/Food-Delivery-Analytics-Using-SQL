@@ -1,0 +1,501 @@
+item_id,restaurant_id,item_name,category,price
+1,22,Veg Burger,Beverage,314
+2,39,Hakka Noodles,Main Course,283
+3,33,Chicken Biryani,Dessert,403
+4,79,Chicken Biryani,Dessert,153
+5,18,Masala Dosa,Main Course,584
+6,51,Margherita Pizza,Dessert,510
+7,43,Hakka Noodles,Beverage,319
+8,84,Momos,Snack,252
+9,42,Momos,Snack,344
+10,41,Veg Biryani,Dessert,594
+11,41,Masala Dosa,Dessert,594
+12,74,Chicken Biryani,Beverage,291
+13,36,Veg Burger,Beverage,157
+14,73,Chicken Biryani,Snack,448
+15,99,Pasta Alfredo,Main Course,586
+16,94,Hakka Noodles,Snack,323
+17,38,Paneer Tikka,Dessert,443
+18,64,Veg Biryani,Beverage,222
+19,33,Veg Biryani,Dessert,503
+20,49,Paneer Tikka,Dessert,405
+21,62,Momos,Dessert,372
+22,65,Veg Burger,Main Course,503
+23,47,Pasta Alfredo,Main Course,154
+24,99,Chicken Biryani,Beverage,184
+25,83,Momos,Main Course,387
+26,83,Veg Burger,Beverage,593
+27,56,Paneer Tikka,Main Course,149
+28,34,Chicken Biryani,Snack,327
+29,48,Veg Burger,Dessert,494
+30,87,Momos,Snack,275
+31,4,Hakka Noodles,Main Course,250
+32,54,Paneer Tikka,Main Course,524
+33,94,Veg Biryani,Beverage,258
+34,44,Hakka Noodles,Snack,365
+35,62,Margherita Pizza,Dessert,148
+36,57,Hakka Noodles,Beverage,133
+37,39,Butter Chicken,Main Course,110
+38,44,Paneer Tikka,Snack,575
+39,95,Chicken Biryani,Snack,381
+40,21,Margherita Pizza,Dessert,589
+41,60,Chicken Biryani,Dessert,421
+42,24,Veg Biryani,Dessert,301
+43,4,Momos,Snack,329
+44,76,Veg Burger,Dessert,101
+45,91,Chicken Biryani,Snack,241
+46,97,Paneer Tikka,Main Course,508
+47,69,Veg Biryani,Beverage,265
+48,26,Hakka Noodles,Main Course,233
+49,86,Hakka Noodles,Beverage,404
+50,50,Momos,Dessert,399
+51,15,Margherita Pizza,Beverage,531
+52,59,Momos,Snack,515
+53,87,Masala Dosa,Main Course,443
+54,18,Margherita Pizza,Main Course,221
+55,40,Paneer Tikka,Snack,290
+56,89,Veg Biryani,Dessert,313
+57,77,Veg Biryani,Dessert,315
+58,24,Hakka Noodles,Snack,383
+59,22,Hakka Noodles,Beverage,170
+60,24,Margherita Pizza,Dessert,416
+61,7,Margherita Pizza,Main Course,347
+62,18,Chicken Biryani,Dessert,592
+63,72,Pasta Alfredo,Dessert,308
+64,88,Hakka Noodles,Dessert,462
+65,57,Hakka Noodles,Snack,141
+66,73,Butter Chicken,Snack,248
+67,5,Masala Dosa,Snack,374
+68,37,Veg Biryani,Dessert,388
+69,96,Hakka Noodles,Main Course,392
+70,15,Masala Dosa,Beverage,376
+71,97,Butter Chicken,Dessert,378
+72,28,Veg Burger,Main Course,475
+73,84,Chicken Biryani,Beverage,546
+74,5,Hakka Noodles,Beverage,277
+75,12,Hakka Noodles,Main Course,496
+76,31,Chicken Biryani,Beverage,539
+77,91,Momos,Dessert,183
+78,79,Veg Biryani,Snack,515
+79,27,Butter Chicken,Beverage,371
+80,36,Momos,Snack,264
+81,91,Masala Dosa,Beverage,392
+82,35,Pasta Alfredo,Main Course,168
+83,97,Veg Burger,Main Course,240
+84,84,Veg Biryani,Snack,226
+85,19,Margherita Pizza,Snack,488
+86,87,Veg Burger,Dessert,171
+87,74,Masala Dosa,Dessert,291
+88,58,Paneer Tikka,Main Course,305
+89,66,Masala Dosa,Beverage,331
+90,63,Margherita Pizza,Main Course,543
+91,100,Paneer Tikka,Dessert,424
+92,86,Margherita Pizza,Main Course,506
+93,69,Veg Burger,Snack,594
+94,55,Chicken Biryani,Dessert,236
+95,42,Masala Dosa,Beverage,379
+96,74,Veg Biryani,Dessert,502
+97,44,Butter Chicken,Main Course,149
+98,81,Hakka Noodles,Main Course,162
+99,21,Hakka Noodles,Dessert,99
+100,55,Chicken Biryani,Snack,550
+101,84,Masala Dosa,Snack,546
+102,36,Paneer Tikka,Beverage,227
+103,11,Margherita Pizza,Snack,125
+104,51,Masala Dosa,Snack,318
+105,84,Paneer Tikka,Main Course,99
+106,28,Hakka Noodles,Main Course,166
+107,76,Chicken Biryani,Dessert,103
+108,2,Margherita Pizza,Main Course,539
+109,55,Veg Biryani,Dessert,135
+110,30,Veg Burger,Main Course,473
+111,14,Paneer Tikka,Beverage,287
+112,39,Veg Biryani,Dessert,495
+113,97,Veg Biryani,Snack,134
+114,68,Momos,Main Course,411
+115,84,Veg Biryani,Dessert,278
+116,93,Chicken Biryani,Snack,569
+117,53,Momos,Dessert,539
+118,28,Paneer Tikka,Main Course,170
+119,97,Paneer Tikka,Dessert,278
+120,55,Margherita Pizza,Snack,225
+121,36,Paneer Tikka,Snack,382
+122,77,Momos,Beverage,497
+123,89,Butter Chicken,Beverage,204
+124,67,Momos,Snack,481
+125,51,Masala Dosa,Main Course,500
+126,31,Hakka Noodles,Dessert,156
+127,31,Hakka Noodles,Main Course,369
+128,2,Margherita Pizza,Beverage,166
+129,50,Momos,Dessert,286
+130,70,Veg Biryani,Dessert,587
+131,99,Paneer Tikka,Main Course,399
+132,9,Butter Chicken,Beverage,209
+133,6,Butter Chicken,Dessert,358
+134,37,Pasta Alfredo,Dessert,315
+135,90,Veg Burger,Main Course,426
+136,69,Pasta Alfredo,Snack,241
+137,11,Masala Dosa,Main Course,360
+138,27,Veg Biryani,Beverage,299
+139,76,Paneer Tikka,Beverage,456
+140,56,Chicken Biryani,Main Course,224
+141,12,Veg Burger,Main Course,331
+142,79,Momos,Main Course,257
+143,86,Veg Biryani,Main Course,105
+144,91,Veg Biryani,Main Course,182
+145,64,Margherita Pizza,Beverage,184
+146,48,Veg Biryani,Beverage,474
+147,16,Butter Chicken,Beverage,512
+148,55,Masala Dosa,Main Course,233
+149,92,Momos,Main Course,353
+150,59,Pasta Alfredo,Beverage,127
+151,64,Momos,Snack,287
+152,21,Masala Dosa,Main Course,556
+153,74,Paneer Tikka,Snack,478
+154,66,Butter Chicken,Main Course,538
+155,2,Chicken Biryani,Main Course,340
+156,47,Veg Burger,Snack,190
+157,5,Pasta Alfredo,Dessert,213
+158,42,Chicken Biryani,Dessert,567
+159,93,Margherita Pizza,Beverage,521
+160,10,Momos,Beverage,160
+161,65,Butter Chicken,Snack,213
+162,67,Butter Chicken,Dessert,134
+163,60,Masala Dosa,Beverage,266
+164,12,Pasta Alfredo,Dessert,103
+165,48,Chicken Biryani,Beverage,387
+166,39,Momos,Snack,336
+167,48,Momos,Dessert,494
+168,100,Chicken Biryani,Snack,176
+169,1,Veg Burger,Main Course,218
+170,70,Margherita Pizza,Main Course,585
+171,43,Butter Chicken,Dessert,533
+172,95,Masala Dosa,Main Course,204
+173,68,Chicken Biryani,Dessert,350
+174,8,Veg Biryani,Beverage,146
+175,6,Chicken Biryani,Dessert,457
+176,48,Hakka Noodles,Main Course,396
+177,13,Pasta Alfredo,Snack,425
+178,51,Paneer Tikka,Main Course,321
+179,85,Veg Biryani,Snack,248
+180,34,Margherita Pizza,Dessert,457
+181,95,Margherita Pizza,Beverage,330
+182,35,Chicken Biryani,Main Course,582
+183,26,Veg Biryani,Main Course,178
+184,14,Veg Biryani,Dessert,337
+185,41,Veg Burger,Main Course,373
+186,46,Chicken Biryani,Dessert,256
+187,60,Masala Dosa,Main Course,145
+188,21,Masala Dosa,Main Course,209
+189,42,Veg Biryani,Main Course,463
+190,32,Margherita Pizza,Dessert,361
+191,7,Masala Dosa,Beverage,518
+192,23,Butter Chicken,Dessert,536
+193,58,Pasta Alfredo,Snack,147
+194,60,Paneer Tikka,Snack,161
+195,2,Butter Chicken,Snack,165
+196,26,Veg Burger,Beverage,450
+197,81,Paneer Tikka,Beverage,568
+198,10,Butter Chicken,Main Course,200
+199,83,Hakka Noodles,Snack,146
+200,43,Paneer Tikka,Main Course,581
+201,60,Butter Chicken,Snack,572
+202,74,Veg Burger,Dessert,353
+203,4,Veg Burger,Dessert,187
+204,46,Chicken Biryani,Snack,239
+205,36,Hakka Noodles,Snack,116
+206,79,Momos,Snack,430
+207,38,Hakka Noodles,Dessert,550
+208,71,Hakka Noodles,Main Course,143
+209,36,Veg Burger,Snack,313
+210,26,Pasta Alfredo,Snack,421
+211,70,Butter Chicken,Dessert,499
+212,92,Margherita Pizza,Dessert,377
+213,63,Margherita Pizza,Beverage,297
+214,35,Veg Biryani,Main Course,262
+215,77,Chicken Biryani,Main Course,557
+216,100,Masala Dosa,Main Course,513
+217,61,Pasta Alfredo,Beverage,491
+218,75,Chicken Biryani,Snack,150
+219,32,Chicken Biryani,Beverage,372
+220,95,Butter Chicken,Snack,393
+221,50,Margherita Pizza,Snack,189
+222,31,Momos,Beverage,511
+223,95,Margherita Pizza,Main Course,459
+224,90,Margherita Pizza,Snack,387
+225,25,Hakka Noodles,Beverage,188
+226,63,Butter Chicken,Main Course,127
+227,30,Momos,Snack,109
+228,68,Hakka Noodles,Main Course,268
+229,79,Chicken Biryani,Snack,273
+230,92,Veg Biryani,Beverage,129
+231,3,Veg Biryani,Snack,495
+232,15,Pasta Alfredo,Beverage,590
+233,10,Margherita Pizza,Dessert,399
+234,13,Margherita Pizza,Beverage,264
+235,18,Veg Biryani,Dessert,504
+236,82,Hakka Noodles,Beverage,188
+237,91,Pasta Alfredo,Beverage,213
+238,86,Momos,Snack,292
+239,40,Masala Dosa,Snack,189
+240,94,Butter Chicken,Dessert,534
+241,99,Momos,Main Course,192
+242,78,Margherita Pizza,Snack,426
+243,73,Paneer Tikka,Dessert,171
+244,43,Paneer Tikka,Snack,276
+245,41,Veg Biryani,Main Course,519
+246,91,Margherita Pizza,Dessert,104
+247,34,Chicken Biryani,Snack,453
+248,9,Margherita Pizza,Beverage,501
+249,14,Butter Chicken,Main Course,296
+250,57,Veg Burger,Snack,551
+251,53,Hakka Noodles,Dessert,278
+252,70,Veg Burger,Main Course,523
+253,62,Momos,Snack,182
+254,58,Paneer Tikka,Main Course,249
+255,3,Margherita Pizza,Beverage,586
+256,14,Paneer Tikka,Beverage,186
+257,49,Veg Biryani,Main Course,379
+258,12,Margherita Pizza,Dessert,459
+259,4,Veg Burger,Snack,409
+260,56,Veg Biryani,Main Course,150
+261,43,Chicken Biryani,Snack,308
+262,90,Pasta Alfredo,Beverage,437
+263,37,Masala Dosa,Snack,148
+264,7,Veg Burger,Dessert,177
+265,7,Margherita Pizza,Main Course,317
+266,12,Masala Dosa,Dessert,201
+267,13,Butter Chicken,Snack,186
+268,82,Masala Dosa,Main Course,341
+269,15,Masala Dosa,Dessert,340
+270,63,Masala Dosa,Main Course,427
+271,70,Veg Burger,Snack,288
+272,49,Margherita Pizza,Snack,327
+273,6,Masala Dosa,Dessert,337
+274,34,Chicken Biryani,Beverage,387
+275,8,Veg Biryani,Main Course,142
+276,86,Margherita Pizza,Dessert,596
+277,97,Momos,Snack,382
+278,8,Veg Burger,Dessert,593
+279,69,Hakka Noodles,Snack,342
+280,39,Paneer Tikka,Dessert,561
+281,92,Butter Chicken,Snack,160
+282,97,Hakka Noodles,Snack,584
+283,22,Chicken Biryani,Snack,163
+284,6,Veg Burger,Main Course,448
+285,56,Chicken Biryani,Snack,526
+286,77,Masala Dosa,Beverage,565
+287,94,Paneer Tikka,Main Course,297
+288,72,Veg Burger,Beverage,537
+289,36,Pasta Alfredo,Dessert,568
+290,2,Momos,Dessert,156
+291,54,Veg Biryani,Snack,389
+292,76,Momos,Main Course,572
+293,14,Momos,Main Course,501
+294,37,Pasta Alfredo,Beverage,548
+295,53,Masala Dosa,Dessert,434
+296,63,Momos,Dessert,118
+297,23,Masala Dosa,Dessert,172
+298,80,Momos,Dessert,118
+299,51,Margherita Pizza,Snack,124
+300,96,Hakka Noodles,Beverage,558
+301,48,Butter Chicken,Beverage,517
+302,39,Masala Dosa,Beverage,530
+303,63,Paneer Tikka,Snack,167
+304,39,Hakka Noodles,Beverage,236
+305,94,Veg Burger,Main Course,195
+306,57,Chicken Biryani,Dessert,478
+307,63,Pasta Alfredo,Beverage,519
+308,8,Pasta Alfredo,Snack,132
+309,40,Pasta Alfredo,Dessert,168
+310,100,Pasta Alfredo,Main Course,187
+311,25,Chicken Biryani,Main Course,226
+312,5,Hakka Noodles,Main Course,569
+313,47,Chicken Biryani,Beverage,287
+314,60,Pasta Alfredo,Dessert,424
+315,16,Butter Chicken,Snack,289
+316,63,Momos,Dessert,189
+317,61,Momos,Beverage,275
+318,21,Masala Dosa,Main Course,244
+319,4,Veg Burger,Main Course,182
+320,74,Chicken Biryani,Snack,430
+321,29,Chicken Biryani,Beverage,432
+322,53,Pasta Alfredo,Main Course,541
+323,100,Butter Chicken,Dessert,565
+324,17,Veg Biryani,Main Course,213
+325,33,Momos,Beverage,463
+326,91,Masala Dosa,Dessert,557
+327,49,Margherita Pizza,Dessert,228
+328,28,Hakka Noodles,Beverage,445
+329,67,Momos,Dessert,398
+330,14,Butter Chicken,Beverage,386
+331,83,Momos,Beverage,251
+332,88,Paneer Tikka,Dessert,131
+333,44,Masala Dosa,Beverage,540
+334,36,Masala Dosa,Beverage,195
+335,20,Pasta Alfredo,Snack,559
+336,8,Momos,Dessert,437
+337,41,Veg Biryani,Main Course,434
+338,64,Masala Dosa,Beverage,563
+339,54,Veg Burger,Dessert,476
+340,5,Momos,Snack,274
+341,93,Chicken Biryani,Dessert,563
+342,86,Margherita Pizza,Beverage,531
+343,22,Pasta Alfredo,Snack,249
+344,13,Hakka Noodles,Snack,478
+345,34,Pasta Alfredo,Snack,583
+346,88,Margherita Pizza,Main Course,212
+347,46,Chicken Biryani,Beverage,314
+348,43,Margherita Pizza,Beverage,398
+349,38,Hakka Noodles,Main Course,339
+350,7,Momos,Main Course,340
+351,25,Pasta Alfredo,Main Course,543
+352,88,Veg Burger,Beverage,310
+353,7,Veg Biryani,Snack,201
+354,44,Veg Burger,Dessert,172
+355,41,Veg Biryani,Main Course,348
+356,43,Veg Biryani,Beverage,423
+357,8,Butter Chicken,Dessert,239
+358,27,Veg Biryani,Snack,349
+359,98,Paneer Tikka,Snack,413
+360,56,Veg Burger,Dessert,318
+361,62,Veg Burger,Main Course,118
+362,69,Chicken Biryani,Beverage,585
+363,2,Margherita Pizza,Snack,108
+364,87,Butter Chicken,Snack,214
+365,89,Margherita Pizza,Beverage,165
+366,14,Veg Burger,Beverage,184
+367,9,Butter Chicken,Beverage,584
+368,38,Hakka Noodles,Beverage,321
+369,88,Veg Biryani,Beverage,560
+370,63,Margherita Pizza,Snack,183
+371,52,Butter Chicken,Snack,213
+372,94,Veg Biryani,Snack,474
+373,3,Momos,Snack,162
+374,47,Butter Chicken,Dessert,547
+375,82,Masala Dosa,Main Course,403
+376,7,Paneer Tikka,Main Course,123
+377,89,Paneer Tikka,Dessert,326
+378,49,Paneer Tikka,Beverage,341
+379,90,Veg Biryani,Snack,454
+380,88,Butter Chicken,Beverage,314
+381,85,Paneer Tikka,Beverage,417
+382,78,Veg Biryani,Dessert,524
+383,14,Pasta Alfredo,Main Course,243
+384,15,Paneer Tikka,Dessert,200
+385,78,Chicken Biryani,Beverage,524
+386,67,Chicken Biryani,Beverage,459
+387,53,Masala Dosa,Snack,119
+388,71,Hakka Noodles,Snack,451
+389,62,Margherita Pizza,Snack,100
+390,2,Paneer Tikka,Main Course,526
+391,74,Hakka Noodles,Snack,585
+392,12,Pasta Alfredo,Main Course,469
+393,93,Paneer Tikka,Beverage,428
+394,30,Hakka Noodles,Beverage,234
+395,60,Butter Chicken,Main Course,515
+396,23,Butter Chicken,Beverage,283
+397,87,Margherita Pizza,Dessert,477
+398,15,Paneer Tikka,Main Course,103
+399,18,Veg Biryani,Beverage,282
+400,57,Momos,Beverage,548
+401,94,Paneer Tikka,Beverage,516
+402,44,Veg Biryani,Main Course,304
+403,52,Hakka Noodles,Beverage,526
+404,50,Hakka Noodles,Dessert,431
+405,22,Paneer Tikka,Snack,455
+406,93,Butter Chicken,Snack,152
+407,54,Momos,Dessert,509
+408,73,Hakka Noodles,Snack,411
+409,49,Margherita Pizza,Main Course,540
+410,88,Veg Biryani,Dessert,570
+411,63,Paneer Tikka,Dessert,324
+412,6,Paneer Tikka,Beverage,434
+413,41,Butter Chicken,Snack,599
+414,86,Margherita Pizza,Main Course,320
+415,85,Chicken Biryani,Dessert,276
+416,85,Veg Burger,Snack,528
+417,72,Momos,Main Course,104
+418,83,Veg Biryani,Dessert,535
+419,64,Veg Biryani,Main Course,483
+420,63,Margherita Pizza,Snack,268
+421,36,Butter Chicken,Snack,380
+422,83,Veg Burger,Dessert,517
+423,31,Paneer Tikka,Dessert,326
+424,74,Hakka Noodles,Main Course,537
+425,64,Hakka Noodles,Beverage,159
+426,64,Butter Chicken,Main Course,305
+427,53,Butter Chicken,Main Course,521
+428,12,Momos,Beverage,554
+429,66,Pasta Alfredo,Snack,434
+430,86,Hakka Noodles,Beverage,285
+431,7,Chicken Biryani,Dessert,268
+432,72,Momos,Dessert,465
+433,85,Margherita Pizza,Dessert,157
+434,13,Chicken Biryani,Main Course,273
+435,46,Masala Dosa,Beverage,458
+436,14,Butter Chicken,Snack,351
+437,18,Veg Burger,Main Course,229
+438,79,Chicken Biryani,Snack,160
+439,51,Chicken Biryani,Dessert,521
+440,25,Margherita Pizza,Main Course,486
+441,54,Butter Chicken,Main Course,494
+442,58,Hakka Noodles,Snack,592
+443,64,Butter Chicken,Main Course,382
+444,56,Momos,Dessert,572
+445,66,Veg Biryani,Snack,473
+446,17,Paneer Tikka,Dessert,435
+447,77,Momos,Beverage,357
+448,50,Veg Burger,Snack,239
+449,51,Margherita Pizza,Beverage,330
+450,18,Veg Biryani,Dessert,407
+451,90,Pasta Alfredo,Beverage,530
+452,90,Pasta Alfredo,Beverage,463
+453,95,Pasta Alfredo,Snack,201
+454,27,Momos,Beverage,450
+455,45,Veg Biryani,Snack,356
+456,70,Margherita Pizza,Main Course,488
+457,46,Pasta Alfredo,Dessert,397
+458,74,Veg Burger,Beverage,548
+459,55,Butter Chicken,Main Course,111
+460,49,Veg Biryani,Main Course,442
+461,8,Chicken Biryani,Beverage,483
+462,21,Masala Dosa,Beverage,173
+463,8,Masala Dosa,Snack,484
+464,70,Butter Chicken,Beverage,515
+465,58,Paneer Tikka,Snack,479
+466,83,Pasta Alfredo,Dessert,220
+467,66,Masala Dosa,Main Course,573
+468,49,Veg Burger,Dessert,588
+469,88,Margherita Pizza,Main Course,105
+470,96,Masala Dosa,Snack,416
+471,100,Hakka Noodles,Snack,565
+472,82,Margherita Pizza,Snack,496
+473,93,Chicken Biryani,Beverage,328
+474,23,Paneer Tikka,Snack,591
+475,23,Pasta Alfredo,Main Course,292
+476,6,Veg Burger,Beverage,383
+477,34,Veg Biryani,Snack,398
+478,33,Butter Chicken,Beverage,337
+479,91,Veg Biryani,Main Course,177
+480,42,Momos,Main Course,495
+481,81,Momos,Beverage,350
+482,74,Pasta Alfredo,Beverage,136
+483,91,Margherita Pizza,Snack,588
+484,24,Pasta Alfredo,Main Course,501
+485,65,Veg Biryani,Dessert,377
+486,69,Veg Burger,Main Course,277
+487,29,Chicken Biryani,Beverage,268
+488,47,Masala Dosa,Snack,585
+489,97,Momos,Dessert,386
+490,97,Butter Chicken,Main Course,441
+491,45,Hakka Noodles,Snack,562
+492,83,Momos,Snack,589
+493,6,Margherita Pizza,Dessert,567
+494,15,Veg Burger,Beverage,375
+495,93,Masala Dosa,Main Course,565
+496,67,Margherita Pizza,Dessert,348
+497,6,Masala Dosa,Snack,263
+498,66,Paneer Tikka,Main Course,184
+499,99,Pasta Alfredo,Main Course,419
+500,9,Chicken Biryani,Snack,541
