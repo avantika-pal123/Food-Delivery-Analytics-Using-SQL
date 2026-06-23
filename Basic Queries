@@ -78,3 +78,5 @@ WHERE payment_method ='Cash on Delivery';
 SELECT payment_method,COUNT(*)
 FROM orders
 GROUP BY payment_method;
+
+
