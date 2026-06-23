@@ -1,0 +1,80 @@
+-- Customers
+--  1. Show all customers.
+Select*from customers;
+
+-- 2. Display customer names and cities only.
+SELECT customer_name, city 
+FROM customers;
+
+-- 3. Find customers from Delhi.
+SELECT * FROM customers
+WHERE city='Delhi';
+
+-- 4. Count total customers.
+SELECT Count(*)
+FROM customers; 
+
+-- 5. Find distinct states.
+SELECT DISTINCT state 
+FROM customers;
+
+-- 6. Find customers whose name starts with 'A'.
+SELECT * FROM customers
+WHERE customer_name LIKE 'A%';
+
+-- 7.Find customers whose name ends with 'a'.
+SELECT * FROM customers
+WHERE customer_name LIKE '%a';
+
+-- 8. Find customers from Mumbai.
+SELECT * FROM customers
+WHERE city = 'Mumbai';
+
+-- 9.Count customers in each state.
+SELECT state ,COUNT(*) as toatal_customers
+FROM customers
+GROUP BY state;
+
+-- 10. Sort customers by name.
+SELECT * FROM customers
+ORDER BY customer_name DESC;
+
+SELECT COUNT(*) AS total_products
+FROM products;
+
+-- 8.Count products by category.
+SELECT category,COUNT(*) 
+FROM products
+GROUP BY category;
+
+-- 9. Find average product price.
+SELECT AVG(price) AS average_price
+FROM products;
+
+-- 10. Sort products by price descending.
+SELECT * FROM products
+ORDER BY price DESC ;
+
+
+
+ -- Orders
+-- 1. Show all orders.
+SELECT *FROM orders;
+
+
+-- 2.Count total orders.
+SELECT COUNT(*) as total_orders
+From orders;
+
+-- 3. Find orders paid through UPI.
+SELECT * FROM orders
+WHERE payment_method ='UPI';
+
+-- 4. Find orders paid through COD.
+SELECT * FROM orders
+WHERE payment_method ='Cash on Delivery';
+
+-- 5.Count orders by payment method.
+SELECT payment_method,COUNT(*)
+FROM orders
+GROUP BY payment_method;
